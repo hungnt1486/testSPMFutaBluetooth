@@ -21,7 +21,7 @@ let package = Package(
         .target(
             name: "FutaBluetooth",
             dependencies: [],
-            path:"Sources/FutaBluetooth"),
+            path:"Sources"),
         .testTarget(
             name: "FutaBluetoothTests",
             dependencies: ["FutaBluetooth"]),

@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "testspmfutabluetooth",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hungnt1486/testSPMFutaBluetooth.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "96c7530c5b7e03e21bfbcd1c580f497da2fd3c0f"
+      }
+    }
+  ],
+  "version" : 2
+}
